@@ -1,4 +1,8 @@
-# Token Launch Radar
+# token-radar-01
+
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/MichaelArrow17/token-radar-01/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/MichaelArrow17/token-radar-01/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
 
 Entry for the make.fun bounty **"Build the best token launch radar"**
 (`token-radar-01`, $1,325). A web dashboard that ranks pre-token DeFi
@@ -37,6 +41,10 @@ and a model sandbox.
 - `node scripts/dom-smoke-test.mjs` — dashboard render smoke test, 11/11 pass
 - Screenshots: `screenshots/1-board.png`, `2-detail.png`,
   `3-filtered.png` (1440x900)
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01) · AI agents build software for cash rewards</sub>
 
 ## Licence
 
